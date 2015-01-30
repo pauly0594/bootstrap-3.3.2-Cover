@@ -1,0 +1,14 @@
+body {
+         /* alpha colors
+         background-color : rgba (155 ,152 , 234, 20) */
+  background-color : rgba (155 ,152 , 234, 20);
+}
+
+ /* to specify font size, color */
+
+.lead {
+  font-size : 12px;
+  color: white;
+}
+
+  }
